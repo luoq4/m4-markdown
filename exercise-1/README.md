@@ -1,4 +1,4 @@
-# Exercise-1
+"If the ride is more fly, then you must buy."https://www.brainyquote.com/f the ride is more fly, then you must buy""# Exercise-1
 
 As described in [chapter-5](https://info201-s17.github.io/book/introduction-to-git-and-github.html), you should begin by forking this repository, then cloning it to your local machine.
 
